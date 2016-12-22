@@ -1,8 +1,7 @@
 #!/usr/bin/env node
 
 console.log('### Loading recipe file')
-var filepath = './marmiton/recipes.json'
-var recipes = require(filepath)
+var recipes = require('./marmiton-recipes.json')
 
 console.log('### Initializing Algolia')
 var ALGOLIA_INDEXNAME = 'kook'

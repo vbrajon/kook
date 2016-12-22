@@ -50,6 +50,7 @@ metadata: array<string>
 ---
 
 - http://www.marmiton.org/
+- http://www.cuisineaz.com/categorie/
 - http://www.finecooking.com/browseall.aspx
 - http://www.bbcgoodfood.com/recipes
 - http://lookandcook.com/
